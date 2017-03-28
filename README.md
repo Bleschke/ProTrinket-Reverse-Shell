@@ -12,6 +12,8 @@ The Adafruit Pro Trinket will emulate a keyboard and use BITSAdmin to automatica
    * Delete file
    * Empty Recycle Bin
 
+BITSAdmin is an alternative to Powershell and is natively installed on all Windows systems XP SP2 and above. 
+
 ### **Prerequisities**
 
 You will need:
