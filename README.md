@@ -6,11 +6,11 @@ Brian Leschke 2017
 
 The Adafruit Pro Trinket will emulate a keyboard and use BITSAdmin to automatically do the following:
 
-    * Download file
-    * Run file
-    * Clear history
-    * Delete file
-    * Empty Recycle Bin
+   * Download file
+   * Run file
+   * Clear history
+   * Delete file
+   * Empty Recycle Bin
 
 ### **Prerequisities**
 
