@@ -36,3 +36,6 @@ The following libraries are required for this project:
 ## **Uploading**
 
 The code can be uploaded to the ProTrinket by a serial (FTDI cable) connection. 
+
+### **Recognition and Credit**
+I would like to recognize [willmfftt](https://github.com/willmfftt) for some of the code. 
