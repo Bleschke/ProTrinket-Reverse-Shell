@@ -12,6 +12,7 @@ You will need:
 1. Adafruit ProTrinket
 2. FTDI cable (https://www.sparkfun.com/products/9717)
 3. Malicious file/payload
+4. Windows Operating System
 
 
 ### **Usage**
