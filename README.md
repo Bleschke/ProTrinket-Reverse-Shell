@@ -18,7 +18,7 @@ BITSAdmin is an alternative to Powershell and is natively installed on all Windo
 
 You will need:
 
-1. Adafruit ProTrinket
+1. Adafruit ProTrinket (https://adafru.it/2000)
 2. FTDI cable (https://www.sparkfun.com/products/9717)
 3. Malicious file/payload
 4. Windows Operating System
